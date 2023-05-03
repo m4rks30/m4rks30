@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm M4rk30</h1>
 <h3 align="center">Look for the rainbow</h3>
 
-## Feedback
-
-If you have any feedback, please reach out to us at fake@fake.com
-
 
 ## Acknowledgements
 
