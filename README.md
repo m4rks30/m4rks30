@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm M4rk30</h1>
 <h3 align="center">Look for the rainbow</h3>
 
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
+
+
+## Acknowledgements
+
+ - [instagram](https://instagram.com/5akhamanesh)
+ - [whatsapp](https://api.whatsapp.com/send?phone=XXXXXXXXXXX)
+
+
+## 🚀 About Me
+I am a web developer (front-end) in my spare time. Follow me on my Instagram*
+
 - 🤝 I’m looking for help with **php libraries**
 
 <h3 align="left">Connect with me:</h3>
