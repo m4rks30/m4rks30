@@ -13,7 +13,6 @@ I am a web developer (front-end) in my spare time. Follow me on my Instagram*
 
 - 🤝 I’m looking for help with **php libraries**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
