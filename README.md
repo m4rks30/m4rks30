@@ -2,7 +2,7 @@
 <h3 align="center">Look for the rainbow</h3>
 
 
-## Acknowledgements
+## following
 
  - [instagram](https://instagram.com/5akhamanesh)
  - [whatsapp](https://api.whatsapp.com/send?phone=XXXXXXXXXXX)
